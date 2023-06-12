@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weerachit Utnok
 =======================================================================================================================================
 
-Student Web Developer and Mobile Developer
+Student Software Developer Web Developer and Mobile Developer
 ------------------------------------------
 
 l've been learning React - React Native and Node js for 1 years , now I am looking for web development and mobile application development job.
