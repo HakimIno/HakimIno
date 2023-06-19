@@ -8,7 +8,7 @@ l've been learning React - React Native and Node js for 1 years , now I am looki
 
 * 🌍  I'm based in Sisaket, Thailand
 * ✉️  You can contact me at [kimsnow7890@gmail.com](mailto:kimsnow7890@gmail.com)
-* 📞  phonenumber 0638288463
+* 📞   phonenumber 0638288463
 * 🧠  I'm learning React, React Native, Nodejs, Typescript , Javascript
 
 ### Skills
