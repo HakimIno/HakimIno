@@ -8,9 +8,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Software Developer Web Developer and Mobile Developer
 ------------------------------------------
 
--As an indie frontend developer, I am deeply passionate about creating outstanding applications and websites using <b>React Native</b> and <b>React</b>. My extensive skill set includes proficiently utilizing <bFirebase</b> and <b>Node.js</b> to seamlessly integrate powerful backend functionality.
+🔥As an indie frontend developer, I am deeply passionate about creating outstanding applications and websites using <b>React Native</b> and <b>React</b>. My extensive skill set includes proficiently utilizing <b>Firebase</b> and <b>Node.js</b> to seamlessly integrate powerful backend functionality.
 
--Driven by my aspirations to make a meaningful impact in the developer community, my ultimate goal is to evolve into a platform engineer. I aspire to contribute my expertise towards developing solutions that empower and benefit the wider community.
+🔥Driven by my aspirations to make a meaningful impact in the developer community, my ultimate goal is to evolve into a platform engineer. I aspire to contribute my expertise towards developing solutions that empower and benefit the wider community.
 
 * 🌍  I'm based in Sisaket, Thailand
 * ✉️  You can contact me at [kimsnow7890@gmail.com](mailto:kimsnow7890@gmail.com)
@@ -19,6 +19,28 @@ Student Software Developer Web Developer and Mobile Developer
 
 ### Skills
 
+👩🏻‍💻 front-end frameworks
+-react
+-react native (mobile)
+-typesctpt
+-javascript
+-html
+-css
+-vite
+-nextjs
+-----------------------------
+👨🏻 back-end
+-nodejs (express)
+-firebase
+-python (basic)
+-----------------------------
+🧌 database
+-🐬mysql
+-🍃mongoDb
+-----------------------------
+Star-Struck devOps
+- docker
+   
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
