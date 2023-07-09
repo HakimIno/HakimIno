@@ -8,8 +8,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student Software Developer Web Developer and Mobile Developer
 ------------------------------------------
 
-l've been learning React - React Native and Node js for 1 years , now I am looking for web development and mobile application development job. &&
-I hope I'll become a platform engineer and do something that useful to a community.
+-As an indie frontend developer, I am deeply passionate about creating outstanding applications and websites using <b>React Native</b> and <b>React</b>. My extensive skill set includes proficiently utilizing <bFirebase</b> and <b>Node.js</b> to seamlessly integrate powerful backend functionality.
+
+-Driven by my aspirations to make a meaningful impact in the developer community, my ultimate goal is to evolve into a platform engineer. I aspire to contribute my expertise towards developing solutions that empower and benefit the wider community.
 
 * 🌍  I'm based in Sisaket, Thailand
 * ✉️  You can contact me at [kimsnow7890@gmail.com](mailto:kimsnow7890@gmail.com)
