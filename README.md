@@ -1,3 +1,7 @@
+img {
+  border-radius: 20px;
+}
+
 <img src="https://github.com/HakimIno/HakimIno/assets/78003589/ad8451ca-f4a6-4288-b59a-c9ef8e76a7b6" alt="Image 1" width="100%" height="250" style="border-radius: 10px;">
 
 
