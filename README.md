@@ -1,6 +1,4 @@
-![dallewizard_com_81c39de649017327-removebg-preview (1)](https://github.com/HakimIno/HakimIno/assets/78003589/640b4d3d-2a32-40f9-ae97-768d4608c3b3)
-![dallewizard_com_eb3703663e0db903-removebg-preview (1)](https://github.com/HakimIno/HakimIno/assets/78003589/d23e0ed0-4bbd-43e6-b6c5-e5e8758bc673)
-
+![dallewizard_com_96a4031a016181c3](https://github.com/HakimIno/HakimIno/assets/78003589/1c1400a9-5357-4898-9e9c-d05f3b0deeee)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weerachit Utnok
 =======================================================================================================================================
@@ -26,7 +24,11 @@ Student Software Developer Web Developer and Mobile Developer
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" height="24" alt="Python" /></a>
 </div>
 
-👩🏻‍💻 Front-end frameworks: 
+👩🏻‍💻 <b>Front-end frameworks:</b>  
+<div>
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+</div>
 
 
 👨🏻 Back-end: nodejs (express) ,firebase ,python (basic)
@@ -41,8 +43,7 @@ Student Software Developer Web Developer and Mobile Developer
 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
