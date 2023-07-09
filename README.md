@@ -1,4 +1,4 @@
-<img src="[https://example.com/image1.jpg](https://github.com/HakimIno/HakimIno/assets/78003589/1c1400a9-5357-4898-9e9c-d05f3b0deeee)" alt="Image 1" width="100%" height="200">
+<img src="https://github.com/HakimIno/HakimIno/assets/78003589/1c1400a9-5357-4898-9e9c-d05f3b0deeee" alt="Image 1" width="100%" height="200">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weerachit Utnok
 =======================================================================================================================================
