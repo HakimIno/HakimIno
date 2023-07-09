@@ -27,7 +27,7 @@ Student Software Developer Web Developer and Mobile Developer
 -----------------------------
 🧌 Database: 🐬mysql , 🍃mongoDb, aws (basic)
 -----------------------------
-👷 DevOps: 🐋docker 
+ 👷 DevOps: 🐋docker 
 -----------------------------
 
 <p align="left">
