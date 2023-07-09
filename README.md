@@ -1,4 +1,4 @@
-<img src="https://github.com/HakimIno/HakimIno/assets/78003589/dda7b333-0cd9-40e5-8be5-9c5af0ce70bf" alt="Image 1" width="100%" height="270" >
+<img src="https://github.com/HakimIno/HakimIno/assets/78003589/dda7b333-0cd9-40e5-8be5-9c5af0ce70bf" alt="Image 1" width="100%" height="240" >
 
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Weerachit Utnok (Kim)
 =======================================================================================================================================
