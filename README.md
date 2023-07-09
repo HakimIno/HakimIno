@@ -19,28 +19,15 @@ Student Software Developer Web Developer and Mobile Developer
 
 ### Skills
 
-👩🏻‍💻 front-end frameworks
--react
--react native (mobile)
--typesctpt
--javascript
--html
--css
--vite
--nextjs
+🫠 Coding: typesctpt, javascript, html, css,python
 -----------------------------
-👨🏻 back-end
--nodejs (express)
--firebase
--python (basic)
+👩🏻‍💻 Front-end frameworks: react, react native (mobile), vite, nextjs
 -----------------------------
-🧌 database
--🐬mysql
--🍃mongoDb
+👨🏻 Back-end: nodejs (express) ,firebase ,python (basic)
 -----------------------------
-Star-Struck devOps
-- docker
-   
+🧌 Database: 🐬mysql , 🍃mongoDb, aws (basic)
+-----------------------------
+👷 DevOps: 🐋docker 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
