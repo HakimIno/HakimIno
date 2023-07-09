@@ -1,6 +1,6 @@
-![dallewizard_com_81c39de649017327-removebg-preview](https://github.com/HakimIno/HakimIno/assets/78003589/bc9caf8e-31b1-403c-aa82-aa841b721fba)
+![dallewizard_com_81c39de649017327-removebg-preview (1)](https://github.com/HakimIno/HakimIno/assets/78003589/640b4d3d-2a32-40f9-ae97-768d4608c3b3)
+![dallewizard_com_eb3703663e0db903-removebg-preview (1)](https://github.com/HakimIno/HakimIno/assets/78003589/d23e0ed0-4bbd-43e6-b6c5-e5e8758bc673)
 
-![dallewizard_com_eb3703663e0db903-removebg-preview](https://github.com/HakimIno/HakimIno/assets/78003589/e5a9a317-b931-42d6-8b5a-67f0b36f1b83)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Weerachit Utnok
 =======================================================================================================================================
