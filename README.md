@@ -21,14 +21,14 @@ Student Software Developer Web Developer and Mobile Developer
 
 ### Skills
 
-🫠 <b>Language:</b> <div>
+<b>Language:</b> <div>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" />
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" height="24" alt="Python" /></a>
 </div>
 
-👩🏻‍💻 <b>Front-end frameworks && UI:</b>  
+ <b>Front-end frameworks && UI:</b>  
 <div>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="24" height="24" alt="NextJs" /></a>
@@ -39,27 +39,27 @@ Student Software Developer Web Developer and Mobile Developer
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="24" height="24" alt="Vite" /></a>
 </div>
 
-👨🏻 <b>Back-end:</b> 
+<b>Back-end:</b> 
 <div>
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24" height="24" alt="NodeJS" /></a>
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="24" height="24" alt="Express" /></a>
 </div>
 
-🧌 <b>Database:</b> 
+<b>Database:</b> 
 <div>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="24" height="24" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="24" height="24" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="24" height="24" alt="Firebase" /></a>
 </div>
 
- 👷 <b>Cloud & Deployment:</b> 
+ <b>Cloud & Deployment:</b> 
 <div>
  <a href="" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/f64a041d6d0cda76988a117724ce3b3272b8fc5f9f742c4dcb9160be9a2c41c1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" width="24" height="24" alt="Docker" /></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/9055d699f40f982cddcb73f1e3e5554e794642b3ccdf1bed328e9674245ae01a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f676f6f676c65636c6f75642f676f6f676c65636c6f75642d6f726967696e616c2e737667" width="24" height="24" alt="Google" /></a>
  <a href="" target="_blank" rel="noreferrer"><img src="https://media.discordapp.net/attachments/757941239495655464/1130143220060405760/digitalocean-pngrepo-com.png?width=468&height=468" width="24" height="24" alt="Google" /></a>
 </div>
 
-👷 <b>Others:</b> 
+<b>Others:</b> 
 <div>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="24" height="24" alt="Terminal" /></a>
