@@ -1,4 +1,5 @@
-Hi, I'm Weerachit Utnok (Kim)\n
+Hi, I'm Weerachit Utnok (Kim)
+----------------------------------------------------------------
 student software developer web developer and mobile developer
 
 ----------------------------------------------------------------
