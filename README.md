@@ -16,7 +16,7 @@ Student Software Developer Web Developer and Mobile Developer
 
 ### Main OS
 <div>
-<img src="https://img.shields.io/static/v1?message=ubuntu&logo=ubuntu&label=&color=1B05C8&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="ubuntu logo"  />
+<img src="https://img.shields.io/static/v1?message=ubuntu&logo=ubuntu&label=&color=DD4814&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="ubuntu logo"  />
 </div>
 
 ### Skills
