@@ -12,10 +12,10 @@
 </p>
 
 
-* 🌍  I'm based in Sisaket, Thailand
-* ✉️  You can contact me at [kimsnow7890@gmail.com](mailto:kimsnow7890@gmail.com)
-* 📞   phonenumber 0638288463
-* 🧠  I'm learning React, React Native, Nodejs, Typescript , Javascript
+* <h5>🌍I'm based in Sisaket, Thailand</h5>
+* <h5>✉️You can contact me at <a href="https://www.gmail.com/">kimsnow7890@gmail.com</a></h5>
+* <h5>📞phonenumber 0638288463</h5>
+* <h5>🧠I'm learning React, React Native, Nodejs, Typescript , Javascript</h5>
 
 ### Main OS
 <div>
