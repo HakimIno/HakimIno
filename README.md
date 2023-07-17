@@ -1,10 +1,12 @@
-![snake gif](https://github.com/HakimIno/HakimIno/blob/output/github-contribution-grid-snake.gif)
+
 
 Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Weerachit Utnok (Kim)
 =======================================================================================================================================
 
 Student Software Developer Web Developer and Mobile Developer
 ------------------------------------------
+
+Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
 
 🔥As an indie frontend developer, I am deeply passionate about creating outstanding applications and websites using <b>React Native</b> and <b>React</b>. My extensive skill set includes proficiently utilizing <b>Firebase</b> and <b>Node.js</b> to seamlessly integrate powerful backend functionality.
 
@@ -68,3 +70,5 @@ Student Software Developer Web Developer and Mobile Developer
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100008452726615" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="24" height="24" /></a> <a href="https://www.github.com/HakimIno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="24" height="24" /></a> <a href="http://www.instagram.com/jr_kimsnow01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /></a></p>
+
+![snake gif](https://github.com/HakimIno/HakimIno/blob/output/github-contribution-grid-snake.gif)
