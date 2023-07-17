@@ -14,6 +14,11 @@ Student Software Developer Web Developer and Mobile Developer
 * 📞   phonenumber 0638288463
 * 🧠  I'm learning React, React Native, Nodejs, Typescript , Javascript
 
+### Main OS
+<div>
+<img src="https://img.shields.io/static/v1?message=Fedora37&logo=fedora&label=&color=1B05C8&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="fedora logo"  />
+</div>
+
 ### Skills
 
 🫠 <b>Language:</b> <div>
