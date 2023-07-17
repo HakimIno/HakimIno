@@ -1,8 +1,7 @@
 <h3>Hi, I'm Weerachit Utnok (Kim)</h3>
 <p><b>student software developer web developer and mobile developer</b></p>
 
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+![gitartwork](gitartwork.svg)
 
 <p>
   🐦As an indie frontend developer, I am deeply passionate about creating outstanding applications and websites using <b>React Native</b> and <b>React</b>. My extensive skill set includes proficiently utilizing <b>Firebase</b> and <b>Node.js</b> to seamlessly integrate powerful backend functionality.
@@ -16,6 +15,9 @@
 * <h5>✉️You can contact me at <a href="https://www.gmail.com/">kimsnow7890@gmail.com</a></h5>
 * <h5>📞phonenumber 0638288463</h5>
 * <h5>🧠I'm learning React, React Native, Nodejs, Typescript , Javascript</h5>
+
+### Snake eating
+![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 ### Main OS
 <div>
