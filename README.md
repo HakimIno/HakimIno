@@ -1,6 +1,6 @@
 Hi, I'm Weerachit Utnok (Kim)
-----------------------------------------------------------------
-Student Software Developer Web Developer and Mobile Developer
+student software developer web developer and mobile developer
+
 ----------------------------------------------------------------
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/41697381/236560953-87a7579c-cd2a-45de-8f67-116f7c95fe94.svg)
