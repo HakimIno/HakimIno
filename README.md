@@ -1,7 +1,7 @@
 <h3>Hi, I'm Weerachit Utnok (Kim)</h3>
 <h4><strong><i>こんにちは、ウィーラチットです</i></strong></h4>
 <p>
-  I'm student <strong><i> software developer web developer and mobile developer</i></strong>
+  I'm student <strong><i> software developer && web developer && mobile developer</i></strong>
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -17,31 +17,31 @@
 
 ## tech stack 🛠
  
- - *programming lang ✨*
-   - 🛵 --> javascript
-   - 🏝️ --> typescript
-   - 🚀 --> go
-   - 🐍 --> python
+ - *Programming Lang ✨*
+   - 🛵 --> <strong>Javascript</strong>
+   - 🏝️ --> <strong>Typescript</strong>
+   - 🪼 --> <strong>Go</strong>
+   - 🐍 --> <strong>Python</strong>
         
- - *frontend 🎨*
-	 - 🎃 --> reactJS
-	 - nextJS
- 	 - react Native | expo 
-	 - tailwind | daisyui | shadcn/ui | radix | mui
+ - *Frontend 🎨*
+   - 🎃 --> <strong>ReactJS</strong>
+   - 🦄 --> <strong>NextJS</strong>
+   - 🌧️ --> <strong>React Native | Expo </strong>
+   - 🐼 --> <strong>Tailwind | Daisyui | Shadcn/ui | Radix | MUI </strong>
 	 
- - *backend 👀*
-	 - nodeJS | expressJS
-	 - go
-   - bun
-   - tRPC (typescript e2e typesafe)
-   - mongoDB | postgresSQL | prisma (orm)  
+ - *Backend 👀*
+   - 🌵 --> <strong>NodeJS | ExpressJS</strong>
+   - 🪼 --> <strong>Go</strong>
+   - 🧄 --> <strong>Bun</strong>
+   - 🦖 --> <strong>TRPC (typescript e2e typesafe)</strong>
+   - 🌳 --> <strong>MongoDB | PostgresSQL | Prisma (orm) </strong> 
 
 
 - *tools & cloud & deployment: ⚙️*
-	 - docker🐳
-   - google
-   - aws
-   - digitalocean
+   - 🐳 --> <strong>Docker</strong> 
+   - 🌞 --> <strong>Google</strong> 
+   - 🦁 --> <strong>AWS</strong> 
+   - 🐬 --> <strong>Digitalocean</strong> 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- tech stack ----------------------------------------------------------------------------------------------------------------------------- -->
