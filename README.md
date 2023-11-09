@@ -8,7 +8,9 @@
 ### Snake eating
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-### Main OS
+
+<ul>
+  <li><strong><i>Main OS</i></strong></li>
 <div>
 <img src="https://img.shields.io/static/v1?message=ubuntu&logo=ubuntu&label=&color=DD4814&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="ubuntu logo"  />
 </div>
