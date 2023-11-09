@@ -5,14 +5,6 @@
 
 ![gitartwork](gitartwork.svg)
 
-<h5>
-  🐦As an indie frontend developer, I am deeply passionate about creating outstanding applications and websites using <b>React Native</b> and <b>React</b>. My extensive skill set includes proficiently utilizing <b>Firebase</b> and <b>Node.js</b> to seamlessly integrate powerful backend functionality.
-</h5>
-<h5>
- 🐬Driven by my aspirations to make a meaningful impact in the developer community, my ultimate goal is to evolve into a platform engineer. I aspire to contribute my expertise towards developing solutions that empower and benefit the wider community.
-</h5>
-
-
 ### Snake eating
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
