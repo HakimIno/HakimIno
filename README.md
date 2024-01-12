@@ -22,11 +22,14 @@
    - 🏝️ --> <strong>Typescript</strong>
    - 🪼 --> <strong>Go</strong>
    - 🐍 --> <strong>Python</strong>
+   - 👾 --> <strong>Graphql</strong>
+   - 👑 --> <strong>RESTAPI</strong>
+   
         
  - *Frontend 🎨*
    - 🎃 --> <strong>ReactJS</strong>
    - 🦄 --> <strong>NextJS</strong>
-   - 🌧️ --> <strong>React Native | Expo </strong>
+   - 🌧️ --> <strong>React Native | Expo | Redux | Redux-toolkit</strong>
    - 🐼 --> <strong>Tailwind | Daisyui | Shadcn/ui | Radix | MUI </strong>
 	 
  - *Backend 👀*
