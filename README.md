@@ -52,6 +52,6 @@
 ![GitHub Banner](https://github.com/virtualvivek/virtualvivek/blob/main/assets/anim_octo_dark.gif?raw=true)
 ##
 ## snake eating 🐍
-!![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 ##
 
