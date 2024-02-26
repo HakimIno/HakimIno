@@ -18,7 +18,7 @@
 <!--- ------------------------------------------------------------------------
 ------------------------------------------------------------------------------ -->
 
-## ![62433__1_-removebg-preview (1)](https://github.com/HakimIno/HakimIno/assets/78003589/5811c9b7-aaf7-4dcb-b697-0f3033f2d3db) Tech stack 🛠 
+## Tech stack 🛠 
 
  - *Programming Lang ✨*
    - 🛵 --> <strong>Javascript</strong>
