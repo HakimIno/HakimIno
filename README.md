@@ -1,7 +1,7 @@
 <h3>Hi, I'm Weerachit Utnok (Kim)</h3>
 <h4><strong><i>こんにちは、ウィーラチットです</i></strong></h4>
 <p>
-  I'm student <strong><i> software developer && web developer && mobile developer </i></strong>
+  I'm <strong><i> software developer && web developer && mobile developer </i></strong>
 </p>
 <p>私は学生のソフトウェア開発者 && Web 開発者 && モバイル開発者です</p>
 
