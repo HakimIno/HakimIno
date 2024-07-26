@@ -30,6 +30,7 @@
    
         
  - *Frontend 🎨*
+   - 🐧 --> <strong>AngularÏ</strong>
    - 🎃 --> <strong>ReactJS</strong>
    - 🦄 --> <strong>NextJS</strong>
    - 🌧️ --> <strong>React Native | Expo | Redux | Redux-toolkit</strong>
