@@ -19,37 +19,9 @@
 ------------------------------------------------------------------------------ -->
 
 ## Tech stack 🛠 
-
-- *Programming Lang ✨*
-   - 🛵 --> <strong>Javascript</strong>
-   - 🏝️ --> <strong>Typescript</strong>
-   - 🪼 --> <strong>Go</strong>
-   - 🐍 --> <strong>Python</strong>
-   - 👾 --> <strong>Graphql</strong>
-   - 👑 --> <strong>RESTAPI</strong>
-   
-        
- - *Frontend 🎨*
-    - 🐧 --> <strong>AngularÏ</strong>
-    - 🎃 --> <strong>ReactJS</strong>
-    - 🦄 --> <strong>NextJS</strong>
-    - 🌧️ --> <strong>React Native | Expo | Redux | Redux-toolkit</strong>
-    - 🐼 --> <strong>Tailwind | Daisyui | Shadcn/ui | Radix | MUI </strong>
-	 
- - *Backend 👀*
-    - 🌵 --> <strong>NodeJS | ExpressJS</strong>
-    - 🪼 --> <strong>Go</strong>
-    - 🧄 --> <strong>Bun</strong>
-    - 🦖 --> <strong>TRPC (typescript e2e typesafe)</strong>
-    - 🌳 --> <strong>MongoDB | PostgresSQL | Prisma (orm) </strong> 
-
- - *tools & cloud & deployment: ⚙️*
-    - 🐳 --> <strong>Docker</strong> 
-    - 🌞 --> <strong>Google</strong> 
-    - 🦁 --> <strong>AWS</strong> 
-    - 🐬 --> <strong>Digitalocean</strong>
-    - 🐬 --> <strong>Kafka</strong>
-    - 🦁 --> <strong>Debezium</strong> 
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,py,graphql,angular,react,nextjs,vite,bun,nodejs,nestjs,go,kafka,prisma,mysql,mongodb,postgres,firebase,supabase,tailwind,swift,kotlin,linux,notion" />
+  </a>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- tech stack ----------------------------------------------------------------------------------------------------------------------------- -->
