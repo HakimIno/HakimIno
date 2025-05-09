@@ -1,35 +1,74 @@
-<h3>Hi, I'm Weerachit Utnok (Kim)</h3>
-<h4><strong><i>こんにちは、ウィーラチットです</i></strong></h4>
-<p>
-  I'm <strong><i> software developer && web developer && mobile developer </i></strong>
-</p>
-<p>私は学生のソフトウェア開発者 && Web 開発者 && モバイル開発者です</p>
+<div align="left">
+  <h1>👋 Hi! Weerachit Utnok (Kim)</h1>
+  <h3><i>こんにちは、ウィーラチットです | Hello, I'm a Full-Stack Developer!</i></h3>
+  <p>💻 <strong>Software, Web & Mobile Developer</strong> | Crafting modern, scalable solutions with passion</p>
+  <img src="https://github.com/HakimIno/HakimIno/assets/78003589/240defe8-4629-4246-b4a4-f90d6ad171a7" alt="Banner" width="100%"/>
+</div>
+
+---
+
+### 🚀 About Me
+- 🌟 Building seamless **web** and **mobile** applications with cutting-edge technologies
+- 🔧 Specializing in **Full-Stack Development**, **DevOps**, and **Real-Time Apps**
+- 🌍 Based in Thailand, coding for the world
+- 📫 Reach me at: [Email](mailto:your.email@example.com) | [Portfolio](https://yourportfolio.com)
+
+---
+
+### 🛠 Tech Stack
+
+#### Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vite,tailwind,js,ts" />
+</a>
+
+#### Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,graphql,prisma,kafka" />
+</a>
+
+#### Mobile
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,react" />
+</a>
+
+#### Databases & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase" />
+</a>
+
+#### DevOps & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,bun,notion" />
+</a>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **My Awesome App** | A mobile app for task management | React Native, Firebase, TypeScript | [View](https://github.com/HakimIno/MyAwesomeApp) |
+| **E-Commerce Web** | Scalable e-commerce platform | Next.js, NestJS, PostgreSQL | [Demo](https://your-demo-link.com) |
+| **IoT Controller** | Real-time IoT device control | Go, Kafka, MongoDB | [View](https://github.com/HakimIno/IoTController) |
+
+---
 
 
-<!--- --------------------------------------------------------------------------------
----------------------------------------------------------------------- -->
-<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ![GitHub Banner](https://github.com/HakimIno/HakimIno/assets/78003589/14fce0ec-b1d2-49b1-847d-dbc46c89019f) ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+### 📬 Connect With Me
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://skillicons.dev/icons?i=gulp" /></a>
+</div>
 
-![GitHub Banner](https://github.com/HakimIno/HakimIno/assets/78003589/240defe8-4629-4246-b4a4-f90d6ad171a7)
+---
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- tech stack ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------
------------------------------------------------------------------------------- -->
-
-## Tech stack 🛠 
- <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,ts,py,graphql,angular,react,nextjs,vite,bun,nodejs,nestjs,go,kafka,prisma,mysql,mongodb,postgres,firebase,supabase,tailwind,swift,kotlin,linux,notion" />
-  </a>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- tech stack ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-##
-![GitHub Banner](https://github.com/virtualvivek/virtualvivek/blob/main/assets/anim_octo_dark.gif?raw=true)
-##
-## snake eating 🐍
-![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-##
-
+<div align="center">
+  <p>✨ <i>"Code is poetry, and I’m writing epics."</i> ✨</p>
+</div>
