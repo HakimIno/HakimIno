@@ -2,7 +2,8 @@
   <h1>👋 Hi! Weerachit Utnok (Kim)</h1>
   <h3><i>こんにちは、ウィーラチットです | Hello, I'm a Full-Stack Developer!</i></h3>
   <p>💻 <strong>Software, Web & Mobile Developer</strong> | Crafting modern, scalable solutions with passion</p>
-  <img src="https://github.com/HakimIno/HakimIno/assets/78003589/240defe8-4629-4246-b4a4-f90d6ad171a7" alt="Banner" width="100%"/>
+<!--   <img src="https://github.com/HakimIno/HakimIno/assets/78003589/240defe8-4629-4246-b4a4-f90d6ad171a7" alt="Banner" width="100%"/> -->
+   <img src="https://i.pinimg.com/originals/ca/4d/23/ca4d2391455ade48053c0b6861842574.gif" alt="Banner" width="100%"  />
 </div>
 
 ---
