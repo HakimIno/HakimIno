@@ -1,15 +1,14 @@
+
+
+![galaxy](https://github.com/user-attachments/assets/4bd653a1-69dd-43ef-a344-975bcd401bc4)
+---
+
 <div align="left">
   <h1>👋 Hi! Weerachit Utnok (Kim)</h1>
   <h3><i>こんにちは、ウィーラチットです | Hello, I'm a Full-Stack Developer!</i></h3>
   <p>💻 <strong>Software, Web & Mobile Developer</strong> | Crafting modern, scalable solutions with passion</p>
 <!--   <img src="https://github.com/HakimIno/HakimIno/assets/78003589/240defe8-4629-4246-b4a4-f90d6ad171a7" alt="Banner" width="100%"/> -->
-
 </div>
-
-![galaxy](https://github.com/user-attachments/assets/4bd653a1-69dd-43ef-a344-975bcd401bc4)
-
-
----
 
 ### 🚀 About Me
 - 🌟 Building seamless **web** and **mobile** applications with cutting-edge technologies
