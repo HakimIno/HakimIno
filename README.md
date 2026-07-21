@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4bd653a1-69dd-43ef-a344-975bcd401bc4" alt="Profile banner" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBxMmlzeXU0cTl3bjZ1Nm02NzNvNnFibWZ5dzF6aGpic3ZnMzBkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Vtt4Aug3u48xgmjt8/giphy.gif" alt="Profile banner" width="100%" height="400px" />
 </div>
 
 <h1 align="center">Weerachit Utnok</h1>
