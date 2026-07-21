@@ -5,10 +5,6 @@
 <h1 align="center">Weerachit Utnok</h1>
 
 <p align="center">
-  Full-Stack Developer focused on modern web, mobile, backend, DevOps, and real-time application development.
-</p>
-
-<p align="center">
   <a href="https://github.com/HakimIno">GitHub</a>
 </p>
 
